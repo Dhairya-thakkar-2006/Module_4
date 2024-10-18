@@ -1,0 +1,65 @@
+Difference Between Object-Oriented Programming (OOP) and Procedural-Oriented Programming (POP)
+
+1. Definition:
+
+OOP: Organizes code around objects that contain both data and methods. The focus is on objects that represent real-world entities.
+POP: Organizes code into procedures or functions. The focus is on a sequence of actions to be performed.
+
+
+2.Data Handling:
+
+OOP: Data is encapsulated within objects and can only be accessed via methods, which provides better security.
+POP: Data is passed freely between functions and can be accessed by any function, which may reduce security.
+
+
+3.Focus:
+
+OOP: Focuses on data (objects) and their interactions. It models real-world concepts.
+POP: Focuses on functions and the order in which they are executed to perform tasks.
+
+
+4.Structure:
+
+OOP: Programs are divided into objects and classes.
+POP: Programs are divided into functions or procedures.
+
+
+5.Modularity:
+
+OOP: Promotes modularity by grouping related data and functions within objects.
+POP: Modularity is achieved by breaking the program into functions, but these functions can operate on global data.
+
+
+6.Code Reusability:
+
+OOP: Supports reusability through inheritance, allowing new classes to inherit properties and methods from existing ones.
+POP: Functions can be reused by calling them, but lacks inheritance and advanced code-reuse mechanisms.
+
+
+7.Security:
+
+OOP: Ensures data hiding by encapsulating it within objects, preventing unauthorized access.
+POP: Global data can be modified by any function, leading to less secure programs.
+
+
+8.Approach:
+
+OOP: Follows a bottom-up approach, starting with creating reusable objects and building the application.
+POP: Follows a top-down approach, breaking tasks into sub-tasks and solving them step by step using functions.
+
+
+9.Real-World Examples:
+
+OOP: Examples include languages like C++, Java, Python, and Ruby.
+POP: Examples include languages like C, Pascal, and Fortran.
+
+
+10.Ease of Maintenance:
+
+OOP: Easier to maintain because of modular and reusable code.
+POP: More difficult to maintain as programs grow, due to a lack of modular structure.
+
+
+11.Execution Speed:
+OOP: Typically slower due to the overhead of managing objects and their interactions.
+POP: Generally faster because it follows a simpler structure with fewer layers of abstraction.
